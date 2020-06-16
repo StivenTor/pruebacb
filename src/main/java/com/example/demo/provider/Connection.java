@@ -141,7 +141,7 @@ public class Connection {
 	}
 	
 	
-	public void getUser() {
+	public void getUser(String email) {
 		try {
 			
 		}catch(Exception ex) {
@@ -149,7 +149,7 @@ public class Connection {
 		}		
 	}
 	
-	public void activateSession() {
+	public void getUserCars(String documentNumber, String auditoria) {
 		try {
 			
 		}catch(Exception ex) {
